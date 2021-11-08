@@ -1,0 +1,5 @@
+2)Terletak pada class block yang digunakan sebagai parameter pada semua class yang ada kecuali class Game Manager.
+3)AI mengontrol gerakan dari paddle(stik) yang terdapat pada sisi kiri layar secara vertikal. Pergerakan dari stik
+  itu mengikuti dari arah gerak bola yang secara terus menerus memantul sampai akhirnya menyentuh bagian tepi kanan
+  atau kiri layar. Lalu pada objek bola, AI cuman mengkontrol pada saat awal permainan dan setiap selesai skor 
+  dicetak dengan arah random.
